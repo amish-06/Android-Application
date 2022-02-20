@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.farming">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:icon="@drawable/app_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/app_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FarmingAppProject"
+        >
+        <activity android:name=".ResetPassword"></activity>
+        <activity android:name=".ForgotPassVerification" />
+        <activity android:name=".Welcome" />
+        <activity android:name=".Register" />
+        <activity android:name=".Login" />
+        <activity android:name=".MainActivity2" />
+        <activity android:name=".Tomato" />
+        <activity android:name=".Wheat" />
+        <activity android:name=".Cotton" />
+        <activity android:name=".Chilli" />
+        <activity android:name=".Cabbage" />
+        <activity android:name=".Potato" />
+        <activity android:name=".Onion" />
+        <activity android:name=".Apple" />
+        <activity android:name=".ScanandEarnHomePage2" />
+        <activity android:name=".ScanandEarnHomePage" />
+        <activity android:name=".Refer" />
+        <activity android:name=".ScanandEarn" />
+        <activity android:name=".MyCopons" />
+        <activity android:name=".MyRewards" />
+        <activity android:name=".SparyService" />
+        <activity android:name=".SoilCheck" />
+        <activity android:name=".CropDiagnostic" />
+        <activity android:name=".CropAdvisory" />
+        <activity android:name=".QRScan" />
+        <activity android:name=".CropProtection" />
+        <activity android:name=".HybridSeed" />
+        <activity android:name=".BuySeed" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

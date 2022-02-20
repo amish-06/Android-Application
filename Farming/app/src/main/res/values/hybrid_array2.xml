@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hybrid_array2">
+        <item>27P31</item>
+        <item>27P63</item>
+        <item>28P67</item>
+        <item>27P37</item>
+
+    </string-array>
+</resources>

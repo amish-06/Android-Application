@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Farming</string>
+    <string name="appLogo">Farmer App Logo</string>
+    <string name="logoTxtView">Farmers App</string>
+    <string name="sloganTxtView">Information About Agriculture</string>
+    <string name="loginLogo">Login Page Logo</string>
+    <string name="loginHeader">Welcome Back</string>
+    <string name="loginHeader2">Login in to continue.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="fullname">Full Name</string>
+    <string name="email">E-Mail</string>
+    <string name="phone">Phone</string>
+    <string name="forgotPassButton">Forgot Password?</string>
+    <string name="newUserButton">New User? Register.</string>
+    <string name="registerButton">Register</string>
+    <string name="oldUserButton">Already Have An account? Login.</string>
+    <string name="registerHeader">Welcome</string>
+    <string name="registerHeader2">Register To Start Your New Journey</string>
+    <string name="welcomeText">Welcome</string>
+    <string name="forgotPassHeader">Forgot Password?</string>
+    <string name="forgotPassHeader2">Enter registered Email and Number to verify</string>
+    <string name="forgotPassVerifyButton">Verify</string>
+    <string name="resetPassHeader">Reset Password</string>
+    <string name="newPassword">Enter New Password</string>
+    <string name="reNewPassword">Re-Enter New Password</string>
+    <string name="resetPassButton">RESET</string>
+</resources>

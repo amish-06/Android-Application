@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="crop_array">
+        <item>    </item>
+        <item>Apple</item>
+        <item>Brinjal</item>
+        <item>Cabbage</item>
+        <item>Cauliflower</item>
+        <item>Chilli</item>
+        <item>Citrus</item>
+        <item>Cotton</item>
+        <item>Cucumber</item>
+        <item>Cumin</item>
+        <item>Grapes</item>
+        <item>Mango</item>
+        <item>Paddy</item>
+        <item>Potato</item>
+        <item>Red Gram</item>
+        <item>Soyabean</item>
+        <item>Tea</item>
+        <item>Tomato</item>
+        <item>Wheat</item>
+    </string-array>
+</resources>
